@@ -1,1 +1,1 @@
-# Curve Ediotr for After Effects
+# Curve Editor for After Effects
