@@ -1,1 +1,1 @@
-# com.mimaraka.curveeditor
+# Curve Ediotr for After Effects
